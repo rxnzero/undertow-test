@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/undertow-core-1.4.0.CR3.jar" sourcepath="C:/Users/elink/AppData/Local/Temp/.org.sf.feeling.decompiler1650328726833/source/undertow-core-1.4.0.CR3-sources-1650328820911.jar"/>
+	<classpathentry kind="lib" path="lib/undertow-servlet-1.4.0.CR3.jar" sourcepath="C:/Users/elink/AppData/Local/Temp/.org.sf.feeling.decompiler1620708277700/source/undertow-servlet-1.4.0.CR3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/xnio-api-3.3.6.Final.jar" sourcepath="C:/Users/elink/AppData/Local/Temp/.org.sf.feeling.decompiler1639029148380/source/xnio-api-3.3.6.Final-sources-1639030346332.jar"/>
+	<classpathentry kind="lib" path="lib/xnio-nio-3.3.6.Final.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
